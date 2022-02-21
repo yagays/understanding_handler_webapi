@@ -1,4 +1,6 @@
+# understanding_handler_webapi
 
+[Flask/FastAPIライクなルーティングとパスパラメータの仕組みを、単純な実装から理解する](https://zenn.dev/yag_ays/articles/4a91622bbfc83c)
 
 ## Install
 
